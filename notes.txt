@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the version changed locally
+=======
+This is the version changed on GitHub - updated again
+>>>>>>> origin/main
